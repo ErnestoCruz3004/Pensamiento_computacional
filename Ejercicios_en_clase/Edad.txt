@@ -1,0 +1,16 @@
+ejercicio para calcular la edad de una persona sabiendo su fecha de nacimiento
+
+1.-Inicio
+2.-Definir/Declarar Año_de_nacimiento (int), 
+		            Año_actual(int), 
+				  Edad(int),
+			        Nombre(str)
+3.-Asignar Año_actual=2023
+
+4.-Escribir "Ingresa tu nombre"
+5.-Asignar a la variable nombre
+6.-Escribir "ingresa tu año de nacimiento", nombre
+7.-Asignar a la variable año de nacimiento
+8.-Operacion Edad=Año_actual - Año_de_nacimiento
+9.-Escribir Nombre, "tu edad es:",Edad "wow!"
+10.-Fin
